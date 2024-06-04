@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "665eef6248339d21f4cdb254_684d51d5-f852-4f64-8997-995d84c1ccfb",
+  "id": "Send Messages_Utils",
   "unpublishedCollection": {
     "name": "Utils",
     "pageId": "Send Messages",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Send Messages_Utils",
-  "deleted": false,
-  "gitSyncId": "665eef6248339d21f4cdb254_684d51d5-f852-4f64-8997-995d84c1ccfb"
+    "variables": []
+  }
 }

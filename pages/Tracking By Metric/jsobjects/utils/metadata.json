@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "622f1c59f1c0af1ceded29e3_62d52ab1b06ce90d91db3961",
+  "id": "Tracking By Metric_utils",
   "unpublishedCollection": {
     "name": "utils",
     "pageId": "Tracking By Metric",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "unitMapToMetric",
@@ -15,10 +15,6 @@
         "name": "myVar2",
         "value": "{}"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Tracking By Metric_utils",
-  "deleted": false,
-  "gitSyncId": "622f1c59f1c0af1ceded29e3_62d52ab1b06ce90d91db3961"
+    ]
+  }
 }
